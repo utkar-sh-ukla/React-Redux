@@ -23,3 +23,5 @@ Redux is a `predictable` `state container` for `Javascript Applications`.
 ### React Redux 
 
 Official Redux UI binding library for React.
+
+![redux](https://user-images.githubusercontent.com/61664827/135813656-4ca1fef6-038a-4443-8c63-b340d758beac.png)
