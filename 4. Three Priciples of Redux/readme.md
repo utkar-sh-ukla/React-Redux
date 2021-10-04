@@ -51,3 +51,7 @@ const reducer = (state, action) => {
 ```
 
 ### OverView
+
+![redux](https://user-images.githubusercontent.com/61664827/135830365-ea1e4347-eede-40f1-a75a-1c5e6507e3e9.png)
+
+
