@@ -99,3 +99,7 @@ store.dispatch(buyIcecream());
 unsubscribe();
 
 ```
+
+### Output
+
+![middleware](https://user-images.githubusercontent.com/61664827/136095467-b0802aac-1f08-4018-8849-15664de95c17.png)
