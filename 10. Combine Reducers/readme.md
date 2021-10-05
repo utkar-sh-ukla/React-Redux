@@ -75,3 +75,7 @@ unsubscribe();
 
 ```
 
+### Output
+
+![combine Reducers](https://user-images.githubusercontent.com/61664827/136090885-5efce288-9aeb-4df6-a287-57ba766bb83f.png)
+
