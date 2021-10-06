@@ -23,7 +23,9 @@ const store = createStore(cakeReducer)
 export default store
 ```
 
+
 > To provide access of `redux-store` to `react` we use `Provider` component.
+
 
 ### In App
 
