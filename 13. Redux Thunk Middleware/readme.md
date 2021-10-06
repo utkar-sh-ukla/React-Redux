@@ -129,3 +129,6 @@ store.dispatch(fetchUsers())
 
 ### Output
 
+![asyncActions](https://user-images.githubusercontent.com/61664827/136172946-a3ddd95d-e5b6-4e25-8f70-9a7914bb0cad.png)
+
+
