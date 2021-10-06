@@ -6,10 +6,10 @@
 src
 |__redux
     |__cake
-        |__cakeActions.js
-        |__cakeReducer.js
-        |__cakeTypes.js
-       +|__store.js
+    |    |__cakeActions.js
+    |    |__cakeReducer.js
+    |    |__cakeTypes.js
+   +|__store.js
 
 ```
 
