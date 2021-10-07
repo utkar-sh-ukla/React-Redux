@@ -16,7 +16,7 @@ const result: any = useSelector(selector: Function, equalityFn?: Function)
 ```
 src
 |__container
-      |__CakeContainer
+      |__CakeContainer.js
      +|__HooksCakeContainer.js
 
 ```
