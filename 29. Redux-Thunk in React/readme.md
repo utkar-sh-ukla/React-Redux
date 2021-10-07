@@ -4,21 +4,6 @@
 
 `npm install axios redux-thunk`
 
-### Folder Structure
-
-```
-src
-|__components
-|  +|__UsersContainer.js
-|
-|__redux
-   +|__user
-       +|__usersActions.js
-       +|__usersReducer.js
-       +|__usersTypes.js
-    
-```
-
 ### UsersContainer
 
 ```js
